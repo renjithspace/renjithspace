@@ -1,2 +1,2 @@
 ### Hello! I'm Renjith.
-𝙸'𝚖 𝚊 𝙵𝚞𝚕𝚕 𝚂𝚝𝚊𝚌𝚔 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 𝚏𝚛𝚘𝚖 𝙲𝚊𝚕𝚒𝚌𝚞𝚝, 𝙸𝚗𝚍𝚒𝚊. 𝙸’𝚟𝚎 𝚋𝚎𝚎𝚗 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚒𝚗 𝚠𝚎𝚋 𝚝𝚎𝚌𝚑𝚗𝚘𝚕𝚘𝚐𝚒𝚎𝚜 𝚜𝚒𝚗𝚌𝚎 𝙰𝚞𝚐𝚞𝚜𝚝 𝟸𝟶𝟷𝟺. 𝙸 𝚠𝚛𝚒𝚝𝚎 𝚌𝚘𝚍𝚎 𝚏𝚘𝚛 𝚠𝚎𝚋, 𝚖𝚘𝚋𝚒𝚕𝚎, 𝚊𝚗𝚍 𝚍𝚎𝚜𝚔𝚝𝚘𝚙 𝚞𝚜𝚒𝚗𝚐 𝚝𝚑𝚎 𝚠𝚎𝚋 𝚊𝚗𝚍 𝚑𝚢𝚋𝚛𝚒𝚍 𝚜𝚘𝚏𝚝𝚠𝚊𝚛𝚎 𝚝𝚎𝚌𝚑𝚗𝚘𝚕𝚘𝚐𝚒𝚎𝚜. 𝙸'𝚖 𝚜𝚙𝚎𝚗𝚍𝚒𝚗𝚐 𝚖𝚢 𝚏𝚛𝚎𝚎 𝚝𝚒𝚖𝚎 𝚛𝚎𝚊𝚍𝚒𝚗𝚐 𝚊𝚛𝚝𝚒𝚌𝚕𝚎𝚜 𝚊𝚗𝚍 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 𝚗𝚎𝚠 𝚝𝚘𝚘𝚕𝚜, 𝙰𝙿𝙸, 𝚊𝚗𝚍 𝚝𝚎𝚌𝚑𝚗𝚘𝚕𝚘𝚐𝚒𝚎𝚜.
+I'm a Full Stack Developer from Calicut, India. I’ve been working in web technologies since August 2014. I write code for web, mobile, and desktop using the web and hybrid software technologies. I'm spending my free time reading articles and learning new tools, API, and technologies.
