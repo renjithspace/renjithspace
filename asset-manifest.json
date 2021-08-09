@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/renjithspace/renjithspace/static/css/main.c8f108a1.chunk.css",
+    "main.js": "/renjithspace/renjithspace/static/js/main.97cf19e7.chunk.js",
+    "main.js.map": "/renjithspace/renjithspace/static/js/main.97cf19e7.chunk.js.map",
+    "runtime-main.js": "/renjithspace/renjithspace/static/js/runtime-main.a621b846.js",
+    "runtime-main.js.map": "/renjithspace/renjithspace/static/js/runtime-main.a621b846.js.map",
+    "static/css/2.679831fc.chunk.css": "/renjithspace/renjithspace/static/css/2.679831fc.chunk.css",
+    "static/js/2.fe0c0a7c.chunk.js": "/renjithspace/renjithspace/static/js/2.fe0c0a7c.chunk.js",
+    "static/js/2.fe0c0a7c.chunk.js.map": "/renjithspace/renjithspace/static/js/2.fe0c0a7c.chunk.js.map",
+    "index.html": "/renjithspace/renjithspace/index.html",
+    "static/css/2.679831fc.chunk.css.map": "/renjithspace/renjithspace/static/css/2.679831fc.chunk.css.map",
+    "static/css/main.c8f108a1.chunk.css.map": "/renjithspace/renjithspace/static/css/main.c8f108a1.chunk.css.map",
+    "static/js/2.fe0c0a7c.chunk.js.LICENSE.txt": "/renjithspace/renjithspace/static/js/2.fe0c0a7c.chunk.js.LICENSE.txt",
+    "static/media/photo.c3468a13.jpg": "/renjithspace/renjithspace/static/media/photo.c3468a13.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a621b846.js",
+    "static/css/2.679831fc.chunk.css",
+    "static/js/2.fe0c0a7c.chunk.js",
+    "static/css/main.c8f108a1.chunk.css",
+    "static/js/main.97cf19e7.chunk.js"
+  ]
+}
