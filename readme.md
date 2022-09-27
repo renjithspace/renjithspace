@@ -1,2 +1,2 @@
 ### Hello! I'm Renjith
-I'm a Software Developer from Calicut, India. I’ve been working in web technologies since August 2014.
+Software Developer with 8 years of experience in full-stack software development, deployment, and maintenance.
